@@ -1,0 +1,1 @@
+java -classpath lib/ant.jar;.;lib/xerces.jar;lib/tools.jar dk.linvald.anttool.Main
